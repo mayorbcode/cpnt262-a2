@@ -60,4 +60,6 @@ figcaption {
   text-align: center;
   /* Space between text */
   gap: .5rem;
+  /* Center in the y-axis */
+  justify-content: center;
 }
