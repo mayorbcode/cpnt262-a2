@@ -8,8 +8,8 @@ export const animals = [
     title:  'Puppy',
     credit: 'André Spieker',
     url:    'https://unsplash.com/photos/8wTPqxlnKM4',
-    width:   350,
-    height:  210,
+    width:   '350',
+    height:  '210',
     path:    'assets/images/237-puppy.jpg'
   },
   {
@@ -17,8 +17,8 @@ export const animals = [
     title:  'Bear',
     credit: 'Thomas Lefebvre',
     url:    'https://unsplash.com/photos/aRXPJnXQ9lU',
-    width:   350,
-    height:  233,
+    width:   '350',
+    height:  '233',
     path:   'assets/images/433-bear.jpg'
   },
   {
@@ -26,8 +26,8 @@ export const animals = [
     title:  'Moose',
     credit: 'Thomas Lefebvre',
     url:    'https://unsplash.com/photos/34mvN5nt1ls',
-    width:   350,
-    height:  233,
+    width:   '350',
+    height:  '233',
     path:   'assets/images/577-moose.jpg'
   },
   {
@@ -35,8 +35,8 @@ export const animals = [
     title:  'Coyote',
     credit: 'Levi Saunders',
     url:    'https://unsplash.com/photos/NUMlxTPsznM',
-    width:   350,
-    height:  233,
+    width:   '350',
+    height:  '233',
     path:   'assets/images/582-coyote.jpg'
   },
   {
@@ -44,8 +44,8 @@ export const animals = [
     title:  'Tiger',
     credit: 'Paula Borowska',
     url:    'https://unsplash.com/photos/OM7CvKnhjfs',
-    width:   263,
-    height:  350,
+    width:   '263',
+    height:  '350',
     path:   'assets/images/593-tiger.jpg'
   },
   {
@@ -53,8 +53,8 @@ export const animals = [
     title:  'Husky',
     credit: 'Alexander Dimitrov',
     url:    'https://unsplash.com/photos/KGy1GFeKBu4',
-    width:   350,
-    height:  197,
+    width:   '350',
+    height:  '197',
     path:   'assets/images/659-husky.jpg'
   },
   {
@@ -62,8 +62,8 @@ export const animals = [
     title:  'Wolf',
     credit: 'Josh Felise',
     url:    'https://unsplash.com/photos/mblYxasm0nk',
-    width:   350,
-    height:  222,
+    width:   '350',
+    height:  '222',
     path:   'assets/images/718-wolf.jpg'
   },
   {
@@ -71,8 +71,8 @@ export const animals = [
     title:  'Monkey',
     credit: 'Damir Kotorić',
     url:    'https://unsplash.com/photos/cSQw4uqF_Hc',
-    width:   350,
-    height:  233,
+    width:   '350',
+    height:  '233',
     path:   'assets/images/783-monkey.jpg'
   },
   {
@@ -80,8 +80,8 @@ export const animals = [
     title:  'Elk',
     credit: 'rebecca johnston',
     url:    'https://unsplash.com/photos/nuRYwOJryyk',
-    width:   350,
-    height:  233,
+    width:   '350',
+    height:  '233',
     path:   'assets/images/790-elk.jpg'
   },
   {
@@ -89,8 +89,8 @@ export const animals = [
     title:  'Bulldog',
     credit: 'Yamon Figurs',
     url:    'https://unsplash.com/photos/2zlxFmByClI',
-    width:   350,
-    height:  233,
+    width:   '350',
+    height:  '233',
     path:   'assets/images/837-bulldog.jpg'
   },
   {
@@ -98,8 +98,8 @@ export const animals = [
     title:  'Bird',
     credit: 'Мартин Тасев',
     url:    'https://unsplash.com/photos/7ALI0RYyq6s',
-    width:   350,
-    height:  233,
+    width:   '350',
+    height:  '233',
     path:   'assets/images/1024-bird.jpg'
   },
   {
@@ -107,8 +107,8 @@ export const animals = [
     title:  'Pug',
     credit: 'Matthew Henry',
     url:    'https://unsplash.com/photos/U5rMrSI7Pn4',
-    width:   350,
-    height:  233,
+    width:   '350',
+    height:  '233',
     path:   'assets/images/1025-pug.jpg'
   },
   {
@@ -116,8 +116,8 @@ export const animals = [
     title:  'Big Cat',
     credit: 'Samuel Scrimshaw',
     url:    'https://unsplash.com/photos/sseiVD2XsOk',
-    width:   350,
-    height:  233,
+    width:   '350',
+    height:  '233',
     path:   'assets/images/1074-cat.jpg'
   },
   {
@@ -125,8 +125,8 @@ export const animals = [
     title:  'Walrus',
     credit: 'Jay Ruzesky',
     url:    'https://unsplash.com/photos/h13Y8vyIXNU',
-    width:   350,
-    height:  250,
+    width:   '350',
+    height:  '250',
     path:   'assets/images/1084-walrus.jpg'
   }
 ];

@@ -46,6 +46,8 @@ body {
 img {
   /* Make each image have the same height */
   height: 233px;
+  /* Make each image at least span the width of the container(figure). This was especially needed for the tiger image */
+  min-width: 100%;
   /* Preserve aspect ratio */
   object-fit: cover;
   /* Round top corners */

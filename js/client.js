@@ -14,7 +14,7 @@ animals.forEach(function(animal) {
   //      - an `<img>` element including `src`, `alt`, `width` and `height` attributes
   //      - a `<figcaption>` element containing photo credit and link to Unsplash source
   // 2. append the `<figure>` card to the `outputHTML` variable you created earlier
-  outputHTML += `<figure class="card"><img src = ${animal.path} alt = ${'Lorem Picsum: ' + animal.title}><figcaption><h1>${animal.title}</h1><p>${animal.credit}</p><a href=${animal.url}>Source</a></figcaption></figure>`;
+  outputHTML += `<figure class="card"><img src = ${animal.path} alt = 'Lorem Picsum: ${animal.title}' ${Object.keys(animal)[4]} = ${Object.values(animal)[4]} ${Object.keys(animal)[5]} = ${Object.values(animal)[5]}><figcaption><h1>${animal.title}</h1><p>${animal.credit}</p><a href=${animal.url}>Source</a></figcaption></figure>`;
   // Using element.innHTML (or other DOM manipulation technique), add the list of figure cards in `outputHTML` to the `gallery` variable you created earlier.
   gallery.innerHTML = outputHTML;
 })
